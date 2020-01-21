@@ -33,3 +33,4 @@ int main() {
     cout << fixed << setprecision(1) <<dd +d << endl;
     cout << s << ss << endl;
     return 0;
+}
