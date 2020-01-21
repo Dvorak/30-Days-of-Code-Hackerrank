@@ -1,3 +1,4 @@
 # 30-Days-of-Code-Hackerrank
-Answer of 30 Days of Code (Hackerran, C++ version)
-Most of the answers are based on the given code instead of rewriting.
+Solution of 30 Days of Code (Hackerran, C++ version)
+
+Most of the solutions are based on the given code insteading of rewriting.
